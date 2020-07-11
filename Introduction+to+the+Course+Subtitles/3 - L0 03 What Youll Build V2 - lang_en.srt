@@ -1,0 +1,76 @@
+1
+00:00:05,000 --> 00:00:10,710
+In this course, you will learn how to wrangle and model massive datasets with Pi Spark,
+
+2
+00:00:10,710 --> 00:00:13,740
+which is a Python library for interacting with Spark.
+
+3
+00:00:13,740 --> 00:00:17,470
+We have divided the materials into four main parts.
+
+4
+00:00:17,470 --> 00:00:18,945
+In the first lesson,
+
+5
+00:00:18,945 --> 00:00:23,870
+you will learn about big data and how Spark fits into the big data ecosystem.
+
+6
+00:00:23,870 --> 00:00:27,300
+In lesson two, it will be practice processing and cleaning
+
+7
+00:00:27,300 --> 00:00:32,505
+datasets to get comfortable with Spark's SQL and dataframe APIs.
+
+8
+00:00:32,505 --> 00:00:33,995
+In the third lesson,
+
+9
+00:00:33,995 --> 00:00:39,280
+we will cover how to debug and optimize your Spark code when running on a cluster.
+
+10
+00:00:39,280 --> 00:00:41,460
+Finally, in lesson four,
+
+11
+00:00:41,460 --> 00:00:47,155
+you will use Spark's Machine Learning Library to train machine learning models at scale.
+
+12
+00:00:47,155 --> 00:00:50,330
+Once you master these four necessary pieces,
+
+13
+00:00:50,330 --> 00:00:54,170
+you'll build a Spark program that solves a real-world problem predicting
+
+14
+00:00:54,170 --> 00:00:58,715
+the turn of users for a music streaming service like Spotify or Pandora.
+
+15
+00:00:58,715 --> 00:01:02,570
+You will have the opportunity to go above and beyond with this project.
+
+16
+00:01:02,570 --> 00:01:07,700
+The provided dataset has plenty of options for creative feature engineering and modeling.
+
+17
+00:01:07,700 --> 00:01:10,250
+We're glad that you're here and we hope you'll enjoy
+
+18
+00:01:10,250 --> 00:01:12,830
+learning about how to scale up your data analysis,
+
+19
+00:01:12,830 --> 00:01:16,170
+and machine learning projects. Let's get started
+
