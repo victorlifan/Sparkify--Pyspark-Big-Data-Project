@@ -9,11 +9,13 @@ Project is created on 2020 Jul 15.
 ## Table of Contents
 1. [Description](#description)
 2. [Workflow](#Workflow)
+
   1. [ELT Pipeline](#etl)
 	2. [Exploratory Data Analysis](#eda)
 	3. [Feature Engineering](#eeg)
 	4. [Modeling](#mol)
 	5. [Dimension reduction](#drm)
+
 3. [Dataset](#Dataset)
 4. [Summary of Project](#summary)
 5. [Files](#About)
