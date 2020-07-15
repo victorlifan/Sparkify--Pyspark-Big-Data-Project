@@ -97,7 +97,7 @@ The original dataframe `final_df` has 83 features, we can see from the  `Weights
 
 Reducing dimension to top 30 features will be cheaper in terms of time consume and computing power while model still remains promising output.
 
-<img src="ima/fimp.png" alt="Dot Product" height="300" width="500">
+<img src="ima/fimp.png" alt="Dot Product" width="800">
 
 
 <a name="Dataset"></a>
@@ -124,7 +124,7 @@ A quick summary of our initial models:
 
 3. The feature reduced model takes less time to train and predict, it decreased time by 12.4% versus the full feature model. Surprisingly, the feature reduced model also increased f1 score by a small amount of 3.13%. This is a classic example of bias-variance tradeoff. More features yield a better performance on the training set, as it generalizes worse on the test set. In other words the full feature model might suffer from overfitting.
 
-<img src="ima/freduce.png" alt="Dot Product" height="300" width="500">
+<img src="ima/freduce.png" alt="Dot Product" height="200" width="500">
 
 <a name="About"></a>
 ## Files In The Repository
